@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All restaurant listings across the state of Arizona. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
+  "config_name": "All Restaurants in Arizona, US",
+  "export_job_id": "79f6c640-8487-4f70-b006-781608aba224",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 487296,
+  "location_name": "Arizona",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-arizona-us-sample-487296",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/487296/beamstation_487296_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 6.06,
+  "sample_records": 1000,
+  "sample_sha256": "4392123466194ba1ac7664494780a21fc53d84cf11ba78f2d77e25716b12e88f",
+  "sample_size_bytes": 2674892,
+  "total_records": 16513,
+  "updated_at": "2026-04-09T15:27:02.568671+00:00"
+}
