@@ -1,12 +1,12 @@
 {
-  "export_job_id": "450175dc-05df-44c6-a03a-872789ba9911",
+  "export_job_id": "7934fafc-01e1-479e-8356-20aeb60f50c2",
   "id_short": 487296,
-  "published_at": "2026-04-19T19:16:03Z",
+  "published_at": "2026-04-23T19:27:25Z",
   "repo_name": "all-restaurants-in-arizona-us-sample-487296",
   "sample_asset_name": "beamstation_487296_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/487296/beamstation_487296_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "4392123466194ba1ac7664494780a21fc53d84cf11ba78f2d77e25716b12e88f",
-  "sample_size_bytes": 2674892,
-  "total_records": 15773
+  "sample_sha256": "775f931aa77527794cade0b4578f46b113b5313a2dabda9dfe6b8324af6331ae",
+  "sample_size_bytes": 2989535,
+  "total_records": 14488
 }
