@@ -9,9 +9,9 @@
 | Dataset ID | `487296` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 15,773 records |
-| Free sample size | 1,000 records (6.34%) |
-| Last export | 2026-04-16T18:33:17.359979+00:00 |
+| Full dataset size | 14,488 records |
+| Free sample size | 1,000 records (6.9%) |
+| Last export | 2026-04-23T14:56:40.628137+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-arizona-us-sample-487296/releases/download/sample-latest/beamstation_487296_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
