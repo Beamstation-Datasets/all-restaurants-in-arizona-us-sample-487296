@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Arizona. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Arizona, US",
-  "export_job_id": "450175dc-05df-44c6-a03a-872789ba9911",
+  "export_job_id": "7934fafc-01e1-479e-8356-20aeb60f50c2",
   "github_org": "Beamstation-Datasets",
   "id_short": 487296,
   "location_name": "Arizona",
   "location_type": "state",
   "repo_name": "all-restaurants-in-arizona-us-sample-487296",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/487296/beamstation_487296_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_pct": 6.34,
+  "sample_pct": 6.9,
   "sample_records": 1000,
-  "sample_sha256": "4392123466194ba1ac7664494780a21fc53d84cf11ba78f2d77e25716b12e88f",
-  "sample_size_bytes": 2674892,
-  "total_records": 15773,
-  "updated_at": "2026-04-16T18:33:17.359979+00:00"
+  "sample_sha256": "775f931aa77527794cade0b4578f46b113b5313a2dabda9dfe6b8324af6331ae",
+  "sample_size_bytes": 2989535,
+  "total_records": 14488,
+  "updated_at": "2026-04-23T14:56:40.628137+00:00"
 }
